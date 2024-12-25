@@ -47,10 +47,15 @@ A simple and elegant calculator application built with React Native. This app of
 ## Screenshots
 
 
-<img src="/Screenshots/ss01.jpg" alt="Screenshot 1" width="250px">
-<img src="/Screenshots/ss02.jpg" alt="Screenshot 2" width="250px">
-<img src="/Screenshots/ss03.jpg" alt="Screenshot 3" width="250px">
-<img src="/Screenshots/ss04.jpg" alt="Screenshot 4" width="250px">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="/Screenshots/ss02.jpg" alt="Screenshot 1" width="200px">
+  <img src="/Screenshots/ss01.jpg" alt="Screenshot 2" width="200px">
+  <img src="/Screenshots/ss03.jpg" alt="Screenshot 3" width="200px">
+  <img src="/Screenshots/ss04.jpg" alt="Screenshot 4" width="200px">
+</div>
+
+
+
 
 ## Project Structure
 
